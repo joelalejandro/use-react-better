@@ -11,9 +11,9 @@ https://slides.com/joelalejandrovillarrealbertoldi/usereactbetter/
 ## Código de ejemplo
 
 ### Parte 1: Desmitificando TypeScript en React
-- [Botón hecho con JavaScript + PropTypes](./src/Button.jsx)
-- [Botón hecho con TypeScript](./src/Button.tsx)
-- [Uso de hooks con TypeScript](./src/Input.tsx)
+- [Botón hecho con JavaScript + PropTypes](./src/components/button/Button.jsx)
+- [Botón hecho con TypeScript](./src/components/button/Button.tsx)
+- [Uso de hooks con TypeScript](./src/components/button/Input.tsx)
 
 ### Parte 2: ¿Redux/MobX/etc.? ¿Really?
 - [useContext](./src/Form.tsx)
